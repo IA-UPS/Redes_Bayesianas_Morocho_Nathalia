@@ -1,0 +1,36 @@
+---
+title: "Resumen"
+author: "Natalia Morocho - Daniel Andrade"
+format: html
+editor: visual
+---
+
+## Inteligencia Artificial
+
+Fecha: 21/05/2023
+
+## Tema: Resumen sobre las redes bayesianas
+
+Las redes bayesianas son un poderoso modelo probabilístico que permite representar y analizar relaciones de dependencia entre variables en un sistema. Estas redes, también conocidas como redes de creencia o redes de probabilidad, utilizan el teorema de Bayes para actualizar y propagar la información probabilística en un entorno incierto.
+
+Una red bayesiana está compuesta por un conjunto de nodos, que representan las variables del sistema, y por arcos direccionales que indican las dependencias probabilísticas entre ellas. Cada nodo representa una variable y contiene una tabla de probabilidades condicionales que describe la probabilidad de ese nodo dado el estado de sus nodos padre.
+
+El uso de redes bayesianas permite modelar la incertidumbre de manera explícita, lo que las convierte en una herramienta valiosa en campos como la inteligencia artificial, la medicina, la ingeniería, la economía y muchos otros. Estas redes proporcionan una forma intuitiva de capturar las relaciones causales y de representar el conocimiento experto en un dominio específico.
+
+Una de las aplicaciones más destacadas de las redes bayesianas es en el campo del diagnóstico médico. En este contexto, las redes bayesianas pueden ayudar a los médicos a evaluar la probabilidad de enfermedades en función de los síntomas y otros factores clínicos. La estructura de la red reflejaría las relaciones causales conocidas entre los síntomas y las enfermedades, mientras que las probabilidades condicionales reflejarían las estimaciones de los expertos sobre la probabilidad de un síntoma dado el estado de la enfermedad.
+
+Otra aplicación importante de las redes bayesianas es en la toma de decisiones bajo incertidumbre. Estas redes permiten modelar problemas complejos de toma de decisiones al proporcionar una forma sistemática de evaluar diferentes acciones y sus consecuencias. Al utilizar las probabilidades condicionales y las estructuras de dependencia, las redes bayesianas pueden calcular la utilidad esperada de diferentes decisiones, lo que ayuda a los tomadores de decisiones a elegir la opción óptima en función de los conocimientos disponibles.
+
+Además, las redes bayesianas se utilizan en el análisis de datos y el aprendizaje automático. En este contexto, las redes bayesianas se utilizan para modelar la estructura subyacente de un conjunto de datos y para inferir las relaciones causales entre las variables observadas. Estas redes pueden ser entrenadas a partir de datos mediante algoritmos de aprendizaje, lo que permite descubrir patrones y dependencias ocultas en los datos.
+
+Las redes bayesianas también ofrecen ventajas en términos de explicabilidad y razonamiento. Dado que las redes bayesianas representan las relaciones causales de manera explícita, pueden proporcionar explicaciones claras y comprensibles sobre cómo se llega a una determinada conclusión. Esto es especialmente importante en áreas donde se requiere un razonamiento transparente, como en el ámbito legal o en sistemas de apoyo a la toma de decisiones críticas.
+
+A pesar de sus numerosas ventajas, las redes bayesianas también presentan algunos desafíos. El principal desafío radica en la especificación de las probabilidades condicionales, ya que a menudo requiere conocimientos expertos y puede ser difícil obtener estimaciones precisas.
+
+## Bibliografía
+
+·IBM Documentation. (s. f.). https://www.ibm.com/docs/es/spss-modeler/saas?topic=models-bayesian-network-node.
+
+· Rojas, J. C. S. (2012). Definición de Redes Bayesianas y sus aplicaciones. Revista Vinculando. https://vinculando.org/articulos/redes-bayesianas.html
+
+·Team, D. S. (2021). Redes Bayesianas. DATA SCIENCE. https://datascience.eu/es/matematica-y-estadistica/redes-bayesianas/
