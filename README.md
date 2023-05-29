@@ -1,0 +1,1 @@
+# Redes_Bayesianas_Morocho_Nathalia
